@@ -1,1 +1,1 @@
-Learning Git step by step
+This is my first project a number analyer
