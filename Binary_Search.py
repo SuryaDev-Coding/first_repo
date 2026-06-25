@@ -12,7 +12,7 @@ def sorting(values):
         sorted_values.append(least)
         values.remove(least)
     return sorted_values
-
+#this works for some reason
 def search(search_element, sorted_values):
     low = 0
     high = len(sorted_values) - 1
