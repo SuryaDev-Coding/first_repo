@@ -4,7 +4,7 @@ def minimum(values):
         if(minimum>value):
             minimum = value
     return minimum
-#this is for sorting
+
 def sorting(values):
     sorted_values=[]
     while(len(values)!=0):
